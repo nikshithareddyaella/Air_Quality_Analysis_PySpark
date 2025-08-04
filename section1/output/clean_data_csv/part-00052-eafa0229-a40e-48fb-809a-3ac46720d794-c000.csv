@@ -1,0 +1,3 @@
+timestamp,region,PM2_5,temperature,humidity
+2004-03-10T22:00:00.000Z,Region1,1.6,11.2,59.6
+2004-03-11T22:00:00.000Z,Region1,1.5,8.2,63.4
